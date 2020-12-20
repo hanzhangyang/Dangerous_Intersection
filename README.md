@@ -1,5 +1,5 @@
 # Intro to Urban Data and Informatics
-## Fall 2020
+Fall 2020, NYC, Beijing, Jersey City
 
 Repository for Intro to Urban Data and Informatics's final work by Yuanyuan Shen, Shen Xin, and [Hanzhang Yang](https://www.hanzhangyang.com)
 
